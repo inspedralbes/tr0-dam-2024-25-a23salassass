@@ -8,7 +8,7 @@
         <img :src="pregunta.imatge" alt="Pregunta" />
         <ol type="1">
           <li v-for="respuesta in pregunta.respostes" :key="respuesta.id">
-            {{ respuesta.resposta }} - 
+            {{ respuesta.resposta }} -
             <span v-if="respuesta.correcta">Correcta</span>
           </li>
         </ol>
@@ -58,7 +58,7 @@
       <button type="submit">Afegir Pregunta</button>
     </form>
   </div>
-  
+
   <div>
     <h1 id="stats">Estadistiques del Quiz</h1>
     <img :src="imageSrc" alt="estadistiques" />
@@ -71,22 +71,22 @@
 export default {
   data() {
     return {
-      preguntes: [], // Almacena las preguntas
-      preguntaEditada: { // Para editar preguntas
+      preguntes: [],
+      preguntaEditada: {
         id: null,
         pregunta: '',
         respostes: [],
         imatge: '',
       },
-      nuevaPregunta: '', // Para agregar una nueva pregunta
-      nuevaImatge: '', // Para la imagen de la nueva pregunta
-      nuevasRespostes: [ // Respuestas para la nueva pregunta, siempre 4
+      nuevaPregunta: '',
+      nuevaImatge: '',
+      nuevasRespostes: [
         { resposta: '', correcta: false },
         { resposta: '', correcta: false },
         { resposta: '', correcta: false },
         { resposta: '', correcta: false },
       ],
-      imageSrc: './public/output.png', // URL de la imagen
+      imageSrc: './public/output.png',
     };
   },
   methods: {
@@ -101,7 +101,7 @@ export default {
     },
     async afegirPregunta() {
       const nuevaPreguntaData = {
-        id: this.preguntes.length + 1, // Generar un nuevo ID
+        id: this.preguntes.length + 1,
         pregunta: this.nuevaPregunta,
         respostes: this.nuevasRespostes,
         imatge: this.nuevaImatge,
@@ -118,7 +118,7 @@ export default {
 
         if (response.ok) {
           const preguntaAgregada = await response.json();
-          this.preguntes.push(preguntaAgregada); // Agregar a la lista
+          this.preguntes.push(preguntaAgregada);
           this.limpiarFormulario();
         } else {
           console.error('Error al afegir');
@@ -130,7 +130,7 @@ export default {
     limpiarFormulario() {
       this.nuevaPregunta = '';
       this.nuevaImatge = '';
-      this.nuevasRespostes = [ // Reiniciar las respuestas
+      this.nuevasRespostes = [
         { resposta: '', correcta: false },
         { resposta: '', correcta: false },
         { resposta: '', correcta: false },
@@ -138,7 +138,7 @@ export default {
       ];
     },
     editarPregunta(pregunta) {
-      this.preguntaEditada = JSON.parse(JSON.stringify(pregunta)); // Hacer una copia
+      this.preguntaEditada = JSON.parse(JSON.stringify(pregunta));
     },
     async guardar() {
       try {
@@ -156,7 +156,7 @@ export default {
           if (index !== -1) {
             this.preguntes.splice(index, 1, preguntaActualizada);
           }
-          this.preguntaEditada = { id: null, pregunta: '', respostes: [] }; // Resetear el formulario
+          this.preguntaEditada = { id: null, pregunta: '', respostes: [] };
         } else {
           console.error('Error al guardar ');
         }
@@ -181,7 +181,7 @@ export default {
       }
     },
   mounted() {
-    this.obtenerPreguntas(); // Obtener preguntas al cargar el componente
+    this.obtenerPreguntas();
   },
 };
 </script>
@@ -203,7 +203,7 @@ form {
 }
 img {
   width: 200px;
-  height: 150px; 
+  height: 150px;
 
 }
 
