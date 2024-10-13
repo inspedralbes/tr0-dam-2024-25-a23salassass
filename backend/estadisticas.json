@@ -1,0 +1,634 @@
+{
+  "partidas": [
+    {
+      "userId": "8206eff3-a02f-4190-9037-63ca0da72330",
+      "preguntas": [
+        {
+          "correct": true,
+          "questionId": "1",
+          "questionText": "Quin és el limit de velocitat en una carretera convencional amb vorera no pavimentada per a turismes?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": false,
+          "questionId": "2",
+          "questionText": "Quin tipus de senyal indica una obligació?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": true,
+          "questionId": "3",
+          "questionText": "Quina és la distància mínima que has de mantenir amb el vehicle que tens davant en una via urbana?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": true,
+          "questionId": "4",
+          "questionText": "Quin és l'interval de temps recomanat per revisar la pressió dels pneumàtics?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": false,
+          "questionId": "5",
+          "questionText": "Què has de fer si el semàfor està en groc intermitent?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": true,
+          "questionId": "6",
+          "questionText": "Què indica una línia contínua al centre de la carretera?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": true,
+          "questionId": "7",
+          "questionText": "Quina d'aquestes situacions requereix l'ús dels llums antiboira posteriors?",
+          "timeElapsed": 1
+        },
+        {
+          "correct": true,
+          "questionId": "8",
+          "questionText": "Quin és el límit màxim de velocitat en autopistes per a turismes a Espanya?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": true,
+          "questionId": "9",
+          "questionText": "Quin dels següents elements és obligatori portar en el vehicle?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": true,
+          "questionId": "10",
+          "questionText": "Què significa una senyal de circulació amb fons blau i una fletxa blanca?",
+          "timeElapsed": 0
+        }
+      ],
+      "timeStamp": "2024-10-13T15:34:30.971Z"
+    },
+    {
+      "userId": "094e5af2-fb02-49bd-8499-5b4cb28050d8",
+      "preguntas": [
+        {
+          "correct": true,
+          "questionId": "1",
+          "questionText": "Quin és el limit de velocitat en una carretera convencional amb vorera no pavimentada per a turismes?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": true,
+          "questionId": "2",
+          "questionText": "Quin tipus de senyal indica una obligació?",
+          "timeElapsed": 1
+        },
+        {
+          "correct": true,
+          "questionId": "3",
+          "questionText": "Quina és la distància mínima que has de mantenir amb el vehicle que tens davant en una via urbana?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": true,
+          "questionId": "4",
+          "questionText": "Quin és l'interval de temps recomanat per revisar la pressió dels pneumàtics?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": false,
+          "questionId": "5",
+          "questionText": "Què has de fer si el semàfor està en groc intermitent?",
+          "timeElapsed": 1
+        },
+        {
+          "correct": false,
+          "questionId": "6",
+          "questionText": "Què indica una línia contínua al centre de la carretera?",
+          "timeElapsed": 1
+        },
+        {
+          "correct": true,
+          "questionId": "7",
+          "questionText": "Quina d'aquestes situacions requereix l'ús dels llums antiboira posteriors?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": true,
+          "questionId": "8",
+          "questionText": "Quin és el límit màxim de velocitat en autopistes per a turismes a Espanya?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": true,
+          "questionId": "9",
+          "questionText": "Quin dels següents elements és obligatori portar en el vehicle?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": true,
+          "questionId": "10",
+          "questionText": "Què significa una senyal de circulació amb fons blau i una fletxa blanca?",
+          "timeElapsed": 0
+        }
+      ],
+      "timeStamp": "2024-10-13T15:34:41.810Z"
+    },
+    {
+      "userId": "55eedeab-e356-46c5-997a-4653851cb1b8",
+      "preguntas": [
+        {
+          "correct": true,
+          "questionId": "1",
+          "questionText": "Quin és el limit de velocitat en una carretera convencional amb vorera no pavimentada per a turismes?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": false,
+          "questionId": "2",
+          "questionText": "Quin tipus de senyal indica una obligació?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": true,
+          "questionId": "3",
+          "questionText": "Quina és la distància mínima que has de mantenir amb el vehicle que tens davant en una via urbana?",
+          "timeElapsed": 1
+        },
+        {
+          "correct": true,
+          "questionId": "4",
+          "questionText": "Quin és l'interval de temps recomanat per revisar la pressió dels pneumàtics?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": false,
+          "questionId": "5",
+          "questionText": "Què has de fer si el semàfor està en groc intermitent?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": false,
+          "questionId": "6",
+          "questionText": "Què indica una línia contínua al centre de la carretera?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": true,
+          "questionId": "7",
+          "questionText": "Quina d'aquestes situacions requereix l'ús dels llums antiboira posteriors?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": true,
+          "questionId": "8",
+          "questionText": "Quin és el límit màxim de velocitat en autopistes per a turismes a Espanya?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": true,
+          "questionId": "9",
+          "questionText": "Quin dels següents elements és obligatori portar en el vehicle?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": true,
+          "questionId": "10",
+          "questionText": "Què significa una senyal de circulació amb fons blau i una fletxa blanca?",
+          "timeElapsed": 0
+        }
+      ],
+      "timeStamp": "2024-10-13T15:34:48.201Z"
+    },
+    {
+      "userId": "d29ca6ff-faf9-4017-a35e-646cee1c11dc",
+      "preguntas": [
+        {
+          "correct": true,
+          "questionId": "1",
+          "questionText": "Quin és el limit de velocitat en una carretera convencional amb vorera no pavimentada per a turismes?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": false,
+          "questionId": "2",
+          "questionText": "Quin tipus de senyal indica una obligació?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": true,
+          "questionId": "3",
+          "questionText": "Quina és la distància mínima que has de mantenir amb el vehicle que tens davant en una via urbana?",
+          "timeElapsed": 1
+        },
+        {
+          "correct": true,
+          "questionId": "4",
+          "questionText": "Quin és l'interval de temps recomanat per revisar la pressió dels pneumàtics?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": false,
+          "questionId": "5",
+          "questionText": "Què has de fer si el semàfor està en groc intermitent?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": false,
+          "questionId": "6",
+          "questionText": "Què indica una línia contínua al centre de la carretera?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": true,
+          "questionId": "7",
+          "questionText": "Quina d'aquestes situacions requereix l'ús dels llums antiboira posteriors?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": true,
+          "questionId": "8",
+          "questionText": "Quin és el límit màxim de velocitat en autopistes per a turismes a Espanya?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": true,
+          "questionId": "9",
+          "questionText": "Quin dels següents elements és obligatori portar en el vehicle?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": true,
+          "questionId": "10",
+          "questionText": "Què significa una senyal de circulació amb fons blau i una fletxa blanca?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": true,
+          "questionId": "10",
+          "questionText": "Què significa una senyal de circulació amb fons blau i una fletxa blanca?",
+          "timeElapsed": 0
+        }
+      ],
+      "timeStamp": "2024-10-13T15:34:48.239Z"
+    },
+    {
+      "userId": "e0b58e5b-d8ea-4684-907c-cd318cf56e74",
+      "preguntas": [
+        {
+          "correct": true,
+          "questionId": "1",
+          "questionText": "Quin és el limit de velocitat en una carretera convencional amb vorera no pavimentada per a turismes?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": false,
+          "questionId": "2",
+          "questionText": "Quin tipus de senyal indica una obligació?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": true,
+          "questionId": "3",
+          "questionText": "Quina és la distància mínima que has de mantenir amb el vehicle que tens davant en una via urbana?",
+          "timeElapsed": 1
+        },
+        {
+          "correct": true,
+          "questionId": "4",
+          "questionText": "Quin és l'interval de temps recomanat per revisar la pressió dels pneumàtics?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": false,
+          "questionId": "5",
+          "questionText": "Què has de fer si el semàfor està en groc intermitent?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": false,
+          "questionId": "6",
+          "questionText": "Què indica una línia contínua al centre de la carretera?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": true,
+          "questionId": "7",
+          "questionText": "Quina d'aquestes situacions requereix l'ús dels llums antiboira posteriors?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": true,
+          "questionId": "8",
+          "questionText": "Quin és el límit màxim de velocitat en autopistes per a turismes a Espanya?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": true,
+          "questionId": "9",
+          "questionText": "Quin dels següents elements és obligatori portar en el vehicle?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": true,
+          "questionId": "10",
+          "questionText": "Què significa una senyal de circulació amb fons blau i una fletxa blanca?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": true,
+          "questionId": "10",
+          "questionText": "Què significa una senyal de circulació amb fons blau i una fletxa blanca?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": true,
+          "questionId": "10",
+          "questionText": "Què significa una senyal de circulació amb fons blau i una fletxa blanca?",
+          "timeElapsed": 0
+        }
+      ],
+      "timeStamp": "2024-10-13T15:34:48.342Z"
+    },
+    {
+      "userId": "5c003958-dceb-4359-9734-374822f95faa",
+      "preguntas": [
+        {
+          "correct": true,
+          "questionId": "1",
+          "questionText": "Quin és el limit de velocitat en una carretera convencional amb vorera no pavimentada per a turismes?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": false,
+          "questionId": "2",
+          "questionText": "Quin tipus de senyal indica una obligació?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": true,
+          "questionId": "3",
+          "questionText": "Quina és la distància mínima que has de mantenir amb el vehicle que tens davant en una via urbana?",
+          "timeElapsed": 1
+        },
+        {
+          "correct": true,
+          "questionId": "4",
+          "questionText": "Quin és l'interval de temps recomanat per revisar la pressió dels pneumàtics?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": false,
+          "questionId": "5",
+          "questionText": "Què has de fer si el semàfor està en groc intermitent?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": false,
+          "questionId": "6",
+          "questionText": "Què indica una línia contínua al centre de la carretera?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": true,
+          "questionId": "7",
+          "questionText": "Quina d'aquestes situacions requereix l'ús dels llums antiboira posteriors?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": true,
+          "questionId": "8",
+          "questionText": "Quin és el límit màxim de velocitat en autopistes per a turismes a Espanya?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": true,
+          "questionId": "9",
+          "questionText": "Quin dels següents elements és obligatori portar en el vehicle?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": true,
+          "questionId": "10",
+          "questionText": "Què significa una senyal de circulació amb fons blau i una fletxa blanca?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": true,
+          "questionId": "10",
+          "questionText": "Què significa una senyal de circulació amb fons blau i una fletxa blanca?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": true,
+          "questionId": "10",
+          "questionText": "Què significa una senyal de circulació amb fons blau i una fletxa blanca?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": true,
+          "questionId": "10",
+          "questionText": "Què significa una senyal de circulació amb fons blau i una fletxa blanca?",
+          "timeElapsed": 0
+        }
+      ],
+      "timeStamp": "2024-10-13T15:34:48.474Z"
+    },
+    {
+      "userId": "7b716100-5da4-4cb3-b7ef-029804ae00ee",
+      "preguntas": [
+        {
+          "correct": true,
+          "questionId": "1",
+          "questionText": "Quin és el limit de velocitat en una carretera convencional amb vorera no pavimentada per a turismes?",
+          "timeElapsed": 1
+        },
+        {
+          "correct": false,
+          "questionId": "2",
+          "questionText": "Quin tipus de senyal indica una obligació?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": true,
+          "questionId": "3",
+          "questionText": "Quina és la distància mínima que has de mantenir amb el vehicle que tens davant en una via urbana?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": true,
+          "questionId": "4",
+          "questionText": "Quin és l'interval de temps recomanat per revisar la pressió dels pneumàtics?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": false,
+          "questionId": "5",
+          "questionText": "Què has de fer si el semàfor està en groc intermitent?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": false,
+          "questionId": "6",
+          "questionText": "Què indica una línia contínua al centre de la carretera?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": true,
+          "questionId": "7",
+          "questionText": "Quina d'aquestes situacions requereix l'ús dels llums antiboira posteriors?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": true,
+          "questionId": "8",
+          "questionText": "Quin és el límit màxim de velocitat en autopistes per a turismes a Espanya?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": true,
+          "questionId": "9",
+          "questionText": "Quin dels següents elements és obligatori portar en el vehicle?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": true,
+          "questionId": "10",
+          "questionText": "Què significa una senyal de circulació amb fons blau i una fletxa blanca?",
+          "timeElapsed": 0
+        }
+      ],
+      "timeStamp": "2024-10-13T15:34:56.684Z"
+    },
+    {
+      "userId": "18ae5a55-4e48-42ff-ba6e-cc046147dc37",
+      "preguntas": [
+        {
+          "correct": true,
+          "questionId": "1",
+          "questionText": "Quin és el limit de velocitat en una carretera convencional amb vorera no pavimentada per a turismes?",
+          "timeElapsed": 1
+        },
+        {
+          "correct": true,
+          "questionId": "2",
+          "questionText": "Quin tipus de senyal indica una obligació?",
+          "timeElapsed": 2
+        },
+        {
+          "correct": true,
+          "questionId": "3",
+          "questionText": "Quina és la distància mínima que has de mantenir amb el vehicle que tens davant en una via urbana?",
+          "timeElapsed": 1
+        },
+        {
+          "correct": true,
+          "questionId": "4",
+          "questionText": "Quin és l'interval de temps recomanat per revisar la pressió dels pneumàtics?",
+          "timeElapsed": 1
+        },
+        {
+          "correct": false,
+          "questionId": "5",
+          "questionText": "Què has de fer si el semàfor està en groc intermitent?",
+          "timeElapsed": 2
+        },
+        {
+          "correct": true,
+          "questionId": "6",
+          "questionText": "Què indica una línia contínua al centre de la carretera?",
+          "timeElapsed": 4
+        },
+        {
+          "correct": true,
+          "questionId": "7",
+          "questionText": "Quina d'aquestes situacions requereix l'ús dels llums antiboira posteriors?",
+          "timeElapsed": 1
+        },
+        {
+          "correct": true,
+          "questionId": "8",
+          "questionText": "Quin és el límit màxim de velocitat en autopistes per a turismes a Espanya?",
+          "timeElapsed": 1
+        },
+        {
+          "correct": true,
+          "questionId": "9",
+          "questionText": "Quin dels següents elements és obligatori portar en el vehicle?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": true,
+          "questionId": "10",
+          "questionText": "Què significa una senyal de circulació amb fons blau i una fletxa blanca?",
+          "timeElapsed": 1
+        }
+      ],
+      "timeStamp": "2024-10-13T15:35:18.135Z"
+    },
+    {
+      "userId": "4c3544d3-759c-4904-8fbf-1308a773aa50",
+      "preguntas": [
+        {
+          "correct": true,
+          "questionId": "1",
+          "questionText": "Quin és el limit de velocitat en una carretera convencional amb vorera no pavimentada per a turismes?",
+          "timeElapsed": 1
+        },
+        {
+          "correct": true,
+          "questionId": "2",
+          "questionText": "Quin tipus de senyal indica una obligació?",
+          "timeElapsed": 1
+        },
+        {
+          "correct": true,
+          "questionId": "3",
+          "questionText": "Quina és la distància mínima que has de mantenir amb el vehicle que tens davant en una via urbana?",
+          "timeElapsed": 1
+        },
+        {
+          "correct": true,
+          "questionId": "4",
+          "questionText": "Quin és l'interval de temps recomanat per revisar la pressió dels pneumàtics?",
+          "timeElapsed": 1
+        },
+        {
+          "correct": true,
+          "questionId": "5",
+          "questionText": "Què has de fer si el semàfor està en groc intermitent?",
+          "timeElapsed": 4
+        },
+        {
+          "correct": true,
+          "questionId": "6",
+          "questionText": "Què indica una línia contínua al centre de la carretera?",
+          "timeElapsed": 1
+        },
+        {
+          "correct": true,
+          "questionId": "7",
+          "questionText": "Quina d'aquestes situacions requereix l'ús dels llums antiboira posteriors?",
+          "timeElapsed": 1
+        },
+        {
+          "correct": true,
+          "questionId": "8",
+          "questionText": "Quin és el límit màxim de velocitat en autopistes per a turismes a Espanya?",
+          "timeElapsed": 1
+        },
+        {
+          "correct": true,
+          "questionId": "9",
+          "questionText": "Quin dels següents elements és obligatori portar en el vehicle?",
+          "timeElapsed": 0
+        },
+        {
+          "correct": true,
+          "questionId": "10",
+          "questionText": "Què significa una senyal de circulació amb fons blau i una fletxa blanca?",
+          "timeElapsed": 0
+        }
+      ],
+      "timeStamp": "2024-10-13T15:35:37.875Z"
+    }
+  ]
+}
