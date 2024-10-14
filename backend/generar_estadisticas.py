@@ -3,7 +3,6 @@ import matplotlib.pyplot as plt
 import numpy as np
 plt.style.use('classic')
 
-# Cargar el archivo JSON
 data_path = "./estadisticas.json"
 
 with open(data_path, 'r') as f:
